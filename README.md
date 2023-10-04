@@ -3,5 +3,5 @@
 <p>I also own a personal website called <a href="https://costionline.com">Costi Online</a> I regularly add content to. Please take a look if you have a chance!</p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=azure,bootstrap,cpp,cloudflare,css,d3,docker,fastapi,git,gradle,html,ai,java,js,jquery,linux,mysql,nginx,postgres,postman,py,raspberrypi,react,redis,rust,sass,spring,tensorflow,ts,wordpress,xd" />
+<img src="https://skillicons.dev/icons?i=bootstrap,cpp,cloudflare,css,d3,docker,fastapi,git,gradle,html,ai,java,js,jquery,mysql,postgres,py,react,redis,rust,sass,spring,tensorflow,ts,wordpress,xd" />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ckhamis&show_icons=true&locale=en&layout=compact" alt="ckhamis" /></p>
