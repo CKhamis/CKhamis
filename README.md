@@ -1,5 +1,5 @@
 <img src="GitHub Banner.webp">
-<p>Hi! Welcome to my Github page. I am currently working on a brand-new professional website on <a href="https://constantinekhamis.com">constantinekhamis.com</a> and two other full stack web applications for school. I am currently learning the fundamentals of React.JS, Python Fast, Reddis, and more.</p>
+<p>Hi! Welcome to my Github page. I'm working on a brand-new professional website on <a href="https://constantinekhamis.com">constantinekhamis.com</a> and two other full stack web applications for school. I'm also learning the fundamentals of React.JS, Python Fast, Reddis, and more.</p>
 <p>I also own a personal website called <a href="https://costionline.com">Costi Online</a> I regularly add content to. Please take a look if you have a chance!</p>
 
 <h3 align="left">Languages and Tools:</h3>
